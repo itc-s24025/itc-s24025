@@ -12,6 +12,14 @@ Profile for Julia Miyazato!
 youtube鑑賞
 特定の漫画、アニメを見ること
 
+資格
+SEA/J Certified Security Basic Master(令和 6年 8月22日)
+CompTIA IT Fundamentals(ITF+)(令和 6年 8月23日)
+インターネット検定 ドットコムマスター ベーシック(令和 6年11月29日)
+Linux技術者認定資格 LinuCレベル1 101試験(令和 7年 3月10日)
+サーティファイ コミュニケーション検定 初級(令和 7年 8月19日)
+サーティファイ Javaプログラミング能力認定試験 3級(令和 7年 8月26日)
+
 現在取り組んでいる言語
 Python
 HTML/CSS
