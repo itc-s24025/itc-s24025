@@ -20,6 +20,39 @@
 - [サーティファイ コミュニケーション検定 初級(令和 7年 8月19日)](https://www.sikaku.gr.jp/c/nc/)<br>
 - [サーティファイ Javaプログラミング能力認定試験 3級(令和 7年 8月26日)](https://www.sikaku.gr.jp/js/cpjv/jv/introduction/)<br>
 ---
+
+
+## ˚.🎀༘⋆ポートフォリオ˚.🎀༘⋆
+<details>
+<summary>ガイカレ祭の出席確認機能を搭載した、スタンプラリー形式クイズアプリ</summary>
+
+<img src="StampRally/QuizList.png" alt="一覧" width="200" />
+<img src="StampRally/Quiz.png" alt="問題" width="200" />
+
+スタンプラリーログインから、1問目正解まで!<br>
+[動画はこちらから](https://drive.google.com/file/d/1rqTAZU8xHF9DV626VVmY08--n0dRfo14/view?usp=sharing)
+
+スタンプラリーコンプリート!<br>
+[動画はこちらから](https://drive.google.com/file/d/1TlqIWjlAVa7hzq6exGbLvBuxDbLIiXj9/view?usp=sharing)
+
+### 作成の様子
+<img src="StampRally/StampRallyCreation.png" alt="スタンプラリー作成様子" width="300" />
+  <figcaption>スタンプラリー作成のリアルな様子...</figcaption>
+<br>
+
+### ガイカレ祭り当日✨
+<img src="StampRally/StampRallyParticipants.JPG" alt="スタンプラリー作成様子" width="300" />
+
+<img src="StampRally/StampRallyParticipants2.png" alt="スタンプラリー作成様子" width="300" />
+  <figcaption>スタンプラリー参加のためのQRコードを読み込んでいる様子。いつの間にか沢山の方々が!</figcaption>
+
+
+
+
+
+
+</details>
+
 ## 技術スタック
 ### 現在取り組んでいる言語
 Python<br>
