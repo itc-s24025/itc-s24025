@@ -1,4 +1,4 @@
-# Profile for Julia Miyazato!
+# Welcome to Julia's profile!
 
 - 誕生日 2005-10-22<br>
 - 沖縄生まれ沖縄育ち<br>
@@ -26,32 +26,113 @@
 <details>
 <summary>ガイカレ祭の出席確認機能を搭載した、スタンプラリー形式クイズアプリ</summary>
 
+※ ただの化け文字ではありません！最終ステージクリアへの鍵！
+
 <img src="StampRally/QuizList.png" alt="一覧" width="200" />
 <img src="StampRally/Quiz.png" alt="問題" width="200" />
 
-スタンプラリーログインから、1問目正解まで!<br>
+スタンプラリーログインから、1問目正解まで！<br>
 [動画はこちらから](https://drive.google.com/file/d/1rqTAZU8xHF9DV626VVmY08--n0dRfo14/view?usp=sharing)
 
-スタンプラリーコンプリート!<br>
+スタンプラリーコンプリート！<br>
 [動画はこちらから](https://drive.google.com/file/d/1TlqIWjlAVa7hzq6exGbLvBuxDbLIiXj9/view?usp=sharing)
 
 ### 作成の様子
-<img src="StampRally/StampRallyCreation.png" alt="スタンプラリー作成様子" width="300" />
+<img src="StampRally/StampRallyCreation2.png" alt="スタンプラリー作成様子" width="300" />
   <figcaption>スタンプラリー作成のリアルな様子...</figcaption>
 <br>
 
-### ガイカレ祭り当日✨
+### ガイカレ祭り当日
 <img src="StampRally/StampRallyParticipants.JPG" alt="スタンプラリー作成様子" width="300" />
 
 <img src="StampRally/StampRallyParticipants2.png" alt="スタンプラリー作成様子" width="300" />
-  <figcaption>スタンプラリー参加のためのQRコードを読み込んでいる様子。いつの間にか沢山の方々が!</figcaption>
+  <figcaption>スタンプラリー参加のためのQRコードを読み込んでいる様子。<br>いつの間にか沢山の方々が！</figcaption>
+
+<br>
+
+### 使用言語
+
+- JavaScript 60.4%
+- TypeScript 38.5%
+- CSS 1.1%
+
+Vercelはこちらから！<br>
+[https://stamp-rally-nu.vercel.app/](https://stamp-rally-nu.vercel.app/)
+
+GitHubはこちらから！<br>
+[https://github.com/itc-s24025/StampRally](https://github.com/itc-s24025/StampRally)
+
+<br>
+<br>
+
+</details>
+
+<details>
+<summary>オススメ店紹介</summary>
+
+※ 授業内では著作権を考慮していませんので、モザイク処理を施しました！
+
+<img src="StoreIntroduction/home_mosaic.PNG" alt="HOME" width="400" />
+<img src="StoreIntroduction/home2_mosaic.PNG" alt="HOME" width="400" />
+  <figcaption>HOME</figcaption>
+<br>
+<img src="StoreIntroduction/insideTheStore_mosaic.PNG" alt="HOME" width="400" />
+  <figcaption>店内の様子</figcaption>
+<br>
+<img src="StoreIntroduction/menu_mosaic.PNG" alt="HOME" width="400" />
+<img src="StoreIntroduction/menu2.png" alt="HOME" width="400" />
+  <figcaption>メニュー</figcaption>
+<br>
+<img src="StoreIntroduction/access.png" alt="HOME" width="400" />
+  <figcaption>交通アクセス</figcaption>
+<br>
+<img src="StoreIntroduction/navigationMenu.png" alt="HOME" width="400" />
+  <figcaption>ナビゲーションメニュー</figcaption>
+
+### 使用言語
+
+- HTML 90.4%
+- CSS 9.6%
+
+GitHubのリポジトリはこちらから！<br>
+[https://github.com/itc-s24025/WebEx_kouki](https://github.com/itc-s24025/WebEx_kouki)
+
+<br>
+<br>
+
+</details>
+
+<details>
+<summary>お気に入りスポット紹介</summary>
+
+外出にハマっているので、microCMSを使用して自分の好きな場所をまとめられるアプリを作りました！
+
+<img src="WebBackEnd/webBackEnd_home.png" alt="HOME" width="400" />
+  <figcaption>HOME</figcaption>
+
+<img src="WebBackEnd/webBackEnd_favorite_list.png" alt="お気に入り一覧" width="400" />
+  <figcaption>お気に入り一覧</figcaption>
+
+<img src="WebBackEnd/webBackEnd_favorite_details.png" alt="お気に入りスポット詳細" width="400" />
+<img src="WebBackEnd/webBackEnd_favorite_details2.png" alt="お気に入りスポット詳細2" width="400" />
+  <figcaption>お気に入りスポット詳細</figcaption>
 
 
+### 使用言語
 
+- TypeScript 51.3%
+- CSS 48.4%
+- JavaScript 0.3%
 
+Vercelはこちらから！<br>
+[https://webfrontend-kadai-map-project.vercel.app/](https://webfrontend-kadai-map-project.vercel.app/)
+
+GitHubのリポジトリはこちらから！<br>
+[https://github.com/itc-s24025/WebFrontEnd-kadai-map-project](https://github.com/itc-s24025/WebFrontEnd-kadai-map-project)
 
 
 </details>
+
 
 ## 技術スタック
 ### 現在取り組んでいる言語
