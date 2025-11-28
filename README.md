@@ -39,6 +39,7 @@
 
 ### 作成の様子
 <img src="StampRally/StampRallyCreation2.png" alt="スタンプラリー作成様子" width="300" />
+<br>
   <figcaption>スタンプラリー作成のリアルな様子...</figcaption>
 <br>
 
@@ -46,6 +47,7 @@
 <img src="StampRally/StampRallyParticipants.JPG" alt="スタンプラリー作成様子" width="300" />
 
 <img src="StampRally/StampRallyParticipants2.png" alt="スタンプラリー作成様子" width="300" />
+<br>
   <figcaption>スタンプラリー参加のためのQRコードを読み込んでいる様子。<br>いつの間にか沢山の方々が！</figcaption>
 
 <br>
@@ -74,19 +76,28 @@ GitHubはこちらから！<br>
 
 <img src="StoreIntroduction/home_mosaic.PNG" alt="HOME" width="400" />
 <img src="StoreIntroduction/home2_mosaic.PNG" alt="HOME" width="400" />
+<br>
   <figcaption>HOME</figcaption>
 <br>
+
 <img src="StoreIntroduction/insideTheStore_mosaic.PNG" alt="HOME" width="400" />
+<br>
   <figcaption>店内の様子</figcaption>
+
 <br>
 <img src="StoreIntroduction/menu_mosaic.PNG" alt="HOME" width="400" />
 <img src="StoreIntroduction/menu2.png" alt="HOME" width="400" />
+<br>
   <figcaption>メニュー</figcaption>
+
 <br>
 <img src="StoreIntroduction/access.png" alt="HOME" width="400" />
+<br>
   <figcaption>交通アクセス</figcaption>
+
 <br>
 <img src="StoreIntroduction/navigationMenu.png" alt="HOME" width="400" />
+<br>
   <figcaption>ナビゲーションメニュー</figcaption>
 
 ### 使用言語
@@ -108,13 +119,18 @@ GitHubのリポジトリはこちらから！<br>
 外出にハマっているので、microCMSを使用して自分の好きな場所をまとめられるアプリを作りました！
 
 <img src="WebBackEnd/webBackEnd_home.png" alt="HOME" width="400" />
+<br>
   <figcaption>HOME</figcaption>
+<br>
 
 <img src="WebBackEnd/webBackEnd_favorite_list.png" alt="お気に入り一覧" width="400" />
+<br>
   <figcaption>お気に入り一覧</figcaption>
+<br>
 
 <img src="WebBackEnd/webBackEnd_favorite_details.png" alt="お気に入りスポット詳細" width="400" />
 <img src="WebBackEnd/webBackEnd_favorite_details2.png" alt="お気に入りスポット詳細2" width="400" />
+<br>
   <figcaption>お気に入りスポット詳細</figcaption>
 
 
