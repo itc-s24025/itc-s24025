@@ -155,7 +155,7 @@ GitHubのリポジトリはこちらから！<br>
 ### 現在取り組んでいる言語
 Python<br>
 HTML/CSS<br>
-JavaScript<br>
+JavaScript / TypeScript<br>
 Java 等<br> 
 
 ### OS
