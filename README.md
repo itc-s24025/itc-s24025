@@ -1,4 +1,4 @@
-# Welcome to Julia's profile!
+# ˚.🎀༘⋆Welcome to Julia's profile!˚.🎀༘⋆
 
 - 誕生日 2005-10-22<br>
 - 沖縄生まれ沖縄育ち<br>
