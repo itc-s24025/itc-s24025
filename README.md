@@ -1,4 +1,4 @@
-# Welcome to Julia's profile!
+# ˚.🎀༘⋆Welcome to Julia's profile!˚.🎀༘⋆
 
 - 誕生日 2005-10-22<br>
 - 沖縄生まれ沖縄育ち<br>
@@ -6,11 +6,12 @@
 ---
 ### 現在
 - 専門学校ITカレッジ沖縄 ITスペシャリスト科 情報工学科コース 在学(27卒予定)<br>
-- ラウンドワンのアルバイトを5年間継続中<br>
+- ラウンドワンのアルバイトを約4年間継続中<br>
 
 ### 趣味
-- youtube鑑賞<br>
+- youtube、X(旧Twitter)鑑賞<br>
 - 特定の漫画、アニメを見ること<br>
+- ショッピング
 ---
 ### 資格
 - [SEA/J Certified Security Basic Master(令和 6年 8月22日)](https://www.sea-j.net/csbm)<br>
@@ -165,7 +166,7 @@ GitHubのリポジトリはこちらから！<br>
 ### 現在取り組んでいる言語
 Python<br>
 HTML/CSS<br>
-JavaScript<br>
+JavaScript / TypeScript<br>
 Java 等<br> 
 
 ### OS
