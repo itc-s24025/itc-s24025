@@ -146,9 +146,20 @@ Vercelはこちらから！<br>
 GitHubのリポジトリはこちらから！<br>
 [https://github.com/itc-s24025/WebFrontEnd-kadai-map-project](https://github.com/itc-s24025/WebFrontEnd-kadai-map-project)
 
-
 </details>
 
+<details>
+<summary>作成途中...言い訳生成アプリ</summary>
+
+プロンプトで入力した内容をもとに、言い訳を生成するアプリです！<br>
+まだ作成途中です。
+
+Vercelはこちらから！<br>
+[https://excuse-maker-app-frontend-rust.vercel.app/](https://excuse-maker-app-frontend-rust.vercel.app/)
+
+GitHubのリポジトリはこちらから！<br>
+[https://github.com/itc-s24025/excuse_maker_app/](https://github.com/itc-s24025/excuse_maker_app/)
+</details>
 
 ## 技術スタック
 ### 現在取り組んでいる言語
@@ -161,7 +172,8 @@ Java 等<br>
 Linux (Ubuntu)<br>
 
 ### データベース
-mariaDB<br>
+MariaDB<br>
+Superbase<br>
 
 ### バージョン管理
 GitHub<br>
@@ -179,7 +191,7 @@ Node.js 等<br>
 ### 今後取り組みたいこと
 GitHubの草を更に増やす<br>
 チーム開発の経験を積む<br>
-バックエンド開発への理解を深めるため、Python、PHP、Java、Node.js（JavaScript）の技術向上<br>
+バックエンド開発への理解を深めるため、Python、PHP、Java、JavaScript、TypeScriptの技術向上<br>
 
 ### 連絡先
 s24025@std.it-college.ac.jp
