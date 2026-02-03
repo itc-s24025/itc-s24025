@@ -149,18 +149,26 @@ GitHubのリポジトリはこちらから！<br>
 
 </details>
 
-<details>
-<summary>作成途中...言い訳生成アプリ</summary>
+[//]: # (<details>)
 
-プロンプトで入力した内容をもとに、言い訳を生成するアプリです！<br>
-まだ作成途中です。
+[//]: # (<summary>作成途中...言い訳生成アプリ</summary>)
 
-Vercelはこちらから！<br>
-[https://excuse-maker-app-frontend-rust.vercel.app/](https://excuse-maker-app-frontend-rust.vercel.app/)
+[//]: # ()
+[//]: # (プロンプトで入力した内容をもとに、言い訳を生成するアプリです！<br>)
 
-GitHubのリポジトリはこちらから！<br>
-[https://github.com/itc-s24025/excuse_maker_app/](https://github.com/itc-s24025/excuse_maker_app/)
-</details>
+[//]: # (まだ作成途中です。)
+
+[//]: # ()
+[//]: # (Vercelはこちらから！<br>)
+
+[//]: # ([https://excuse-maker-app-frontend-rust.vercel.app/]&#40;https://excuse-maker-app-frontend-rust.vercel.app/&#41;)
+
+[//]: # ()
+[//]: # (GitHubのリポジトリはこちらから！<br>)
+
+[//]: # ([https://github.com/itc-s24025/excuse_maker_app/]&#40;https://github.com/itc-s24025/excuse_maker_app/&#41;)
+
+[//]: # (</details>)
 
 ## 技術スタック
 ### 現在取り組んでいる言語
