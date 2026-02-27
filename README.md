@@ -1,6 +1,6 @@
 # ˚.🎀༘⋆Welcome to Julia's profile!˚.🎀༘⋆
-
-- 誕生日 2005-10-22<br>
+### 宮里 樹璃杏（みやざと じゅりあ）です！<br>
+- 誕生日「2005-10-22」<br>
 - 沖縄生まれ沖縄育ち<br>
 - 高校3年生にWebエンジニアに興味を持ちはじめ、ITの専門学校を目指す<br>
 ---
@@ -12,7 +12,13 @@
 - youtube、X(旧Twitter)鑑賞<br>
 - 特定の漫画、アニメを見ること<br>
 - ショッピング
+
+### 興味のある分野
+- Webアプリケーション開発<br>
+- モバイルアプリ開発<br>
+
 ---
+
 ### 資格
 - [SEA/J Certified Security Basic Master(令和 6年 8月22日)](https://www.sea-j.net/csbm)<br>
 - [CompTIA IT Fundamentals(ITF+)(令和 6年 8月23日)](https://www.comptia.jp/certif/core/comptia_itf_new/)<br>
@@ -20,12 +26,17 @@
 - [Linux技術者認定資格 LinuCレベル1 101試験(令和 7年 3月10日)](https://linuc.org/linuc1/)<br>
 - [サーティファイ コミュニケーション検定 初級(令和 7年 8月19日)](https://www.sikaku.gr.jp/c/nc/)<br>
 - [サーティファイ Javaプログラミング能力認定試験 3級(令和 7年 8月26日)](https://www.sikaku.gr.jp/js/cpjv/jv/introduction/)<br>
----
 
+### 今後取りたい資格
+- ITパスポート<br>
+- 基本情報技術者<br>
+---
 
 ## ˚.🎀༘⋆ポートフォリオ˚.🎀༘⋆
 <details>
-<summary>ガイカレ祭の出席確認機能を搭載した、スタンプラリー形式クイズアプリ</summary>
+<summary>【チーム開発】ガイカレ祭の出席確認機能を搭載した、スタンプラリー形式クイズアプリ</summary>
+
+専門学校2年生、11月頃の作品です。<br>
 
 ※ ただの化け文字ではありません！最終ステージクリアへの鍵！
 
@@ -65,13 +76,14 @@ Vercelはこちらから！<br>
 GitHubはこちらから！<br>
 [https://github.com/itc-s24025/StampRally](https://github.com/itc-s24025/StampRally)
 
-<br>
-<br>
-
 </details>
 
+---
+
 <details>
-<summary>オススメ店紹介</summary>
+<summary>【個人開発】オススメ店紹介</summary>
+
+専門学校1年生、2月頃の作品です。<br>
 
 ※ 授業内では著作権を考慮していませんので、モザイク処理を施しました！
 
@@ -109,13 +121,14 @@ GitHubはこちらから！<br>
 GitHubのリポジトリはこちらから！<br>
 [https://github.com/itc-s24025/WebEx_kouki](https://github.com/itc-s24025/WebEx_kouki)
 
-<br>
-<br>
-
 </details>
 
+---
+
 <details>
-<summary>お気に入りスポット紹介</summary>
+<summary>【個人開発】お気に入りスポット紹介</summary>
+
+専門学校2年生、11月頃の作品です。<br>
 
 外出にハマっているので、microCMSを使用して自分の好きな場所をまとめられるアプリを作りました！
 
@@ -134,7 +147,6 @@ GitHubのリポジトリはこちらから！<br>
 <br>
   <figcaption>お気に入りスポット詳細</figcaption>
 
-
 ### 使用言語
 
 - TypeScript 51.3%
@@ -149,9 +161,13 @@ GitHubのリポジトリはこちらから！<br>
 
 </details>
 
+---
+
 <details>
 
-<summary>Gemini Aiを取り入れた言い訳生成アプリ「明日から本気出す(仮)」</summary>
+<summary>【チーム開発】Gemini Aiを取り入れた言い訳生成アプリ「明日から本気出す(仮)」</summary>
+
+専門学校2年生、2月頃の作品です。<br>
 
 このアプリは、ユーザが入力した状況に対して、Gemini Aiが適切な言い訳を生成します！<br>ユーザは生成された言い訳を「成功」や「非表示」として管理でき、タグごとのランキングも確認できます！
 
@@ -196,8 +212,6 @@ AIを取り入れて、エンタメ性のあるアプリを作りたかった
 - 認証: Firebase Authentication<br>
 - AI: Gemini API<br>
 
-
-
 Vercelはこちらから！<br>
 [https://excuse-maker-app-frontend-rust.vercel.app/](https://excuse-maker-app-frontend-rust.vercel.app/)
 
@@ -207,37 +221,39 @@ GitHubのリポジトリはこちらから！<br>
 
 </details>
 
+---
+
 ## 技術スタック
 ### 現在取り組んでいる言語
-Python<br>
-HTML/CSS<br>
-JavaScript / TypeScript<br>
-Java 等<br> 
+- Python<br>
+- HTML/CSS<br>
+- JavaScript / TypeScript<br>
+- Java 等<br> 
 
 ### OS
-Linux (Ubuntu)<br>
+- Linux (Ubuntu)<br>
 
 ### データベース
-MariaDB<br>
-Superbase<br>
+- MariaDB<br>
+- Superbase<br>
 
 ### バージョン管理
-GitHub<br>
+- GitHub<br>
 
 ### フレームワーク / ライブラリ
-React<br>
-Bootstrap<br>
+- React<br>
+- Bootstrap<br>
 
 ### その他ツール/環境
-Visual Studio Code<br>
-IntelliJ IDEA<br>
-Slack<br>
-Node.js 等<br>
+- Visual Studio Code<br>
+- IntelliJ IDEA<br>
+- Slack<br>
+- Node.js 等<br>
 
 ### 今後取り組みたいこと
-GitHubの草を更に増やす<br>
-チーム開発の経験を積む<br>
-バックエンド開発への理解を深めるため、Python、PHP、Java、JavaScript、TypeScriptの技術向上<br>
+- GitHubの草を更に増やす<br>
+- チーム開発の経験を積む<br>
+- バックエンド開発への理解を深めるため、Python、PHP、Java、JavaScript、TypeScriptの技術向上<br>
 
 ### 連絡先
 s24025@std.it-college.ac.jp
